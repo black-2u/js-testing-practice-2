@@ -1,8 +1,6 @@
 # JavaScript Unit Testing - The Practical Code 
 
-This repository contains code snapshots and other attachments (e.g., slides) for our [JavaScript Unit Testing - The Practical Guide](https://acad.link/testing) course.
-
-You may use the provided resources to follow along with the course, debug your code or to compare your solution to Maximilian's. Re-distributing course materials (including the content provided with this repository) is not permitted.
+There are some testing examples using vitest.
 
 
 # Running The Provided Code
